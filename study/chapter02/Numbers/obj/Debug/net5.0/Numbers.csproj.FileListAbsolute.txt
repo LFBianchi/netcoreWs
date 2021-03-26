@@ -1,0 +1,16 @@
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/obj/Debug/net5.0/Numbers.csprojAssemblyReference.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/obj/Debug/net5.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/obj/Debug/net5.0/Numbers.AssemblyInfoInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/obj/Debug/net5.0/Numbers.AssemblyInfo.cs
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/obj/Debug/net5.0/Numbers.csproj.CoreCompileInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/bin/Debug/net5.0/Numbers
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/bin/Debug/net5.0/Numbers.deps.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/bin/Debug/net5.0/Numbers.runtimeconfig.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/bin/Debug/net5.0/Numbers.runtimeconfig.dev.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/bin/Debug/net5.0/Numbers.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/bin/Debug/net5.0/ref/Numbers.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/bin/Debug/net5.0/Numbers.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/obj/Debug/net5.0/Numbers.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/obj/Debug/net5.0/ref/Numbers.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/obj/Debug/net5.0/Numbers.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Numbers/obj/Debug/net5.0/Numbers.genruntimeconfig.cache

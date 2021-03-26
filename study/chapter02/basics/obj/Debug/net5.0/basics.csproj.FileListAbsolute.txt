@@ -1,0 +1,16 @@
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/obj/Debug/net5.0/basics.csprojAssemblyReference.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/obj/Debug/net5.0/basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/obj/Debug/net5.0/basics.AssemblyInfoInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/obj/Debug/net5.0/basics.AssemblyInfo.cs
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/obj/Debug/net5.0/basics.csproj.CoreCompileInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/bin/Debug/net5.0/basics
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/bin/Debug/net5.0/basics.deps.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/bin/Debug/net5.0/basics.runtimeconfig.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/bin/Debug/net5.0/basics.runtimeconfig.dev.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/bin/Debug/net5.0/basics.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/bin/Debug/net5.0/ref/basics.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/bin/Debug/net5.0/basics.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/obj/Debug/net5.0/basics.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/obj/Debug/net5.0/ref/basics.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/obj/Debug/net5.0/basics.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/basics/obj/Debug/net5.0/basics.genruntimeconfig.cache

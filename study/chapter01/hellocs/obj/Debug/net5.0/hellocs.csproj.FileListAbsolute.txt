@@ -1,0 +1,16 @@
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/bin/Debug/net5.0/hellocs
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/bin/Debug/net5.0/hellocs.deps.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/bin/Debug/net5.0/hellocs.runtimeconfig.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/bin/Debug/net5.0/hellocs.runtimeconfig.dev.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/bin/Debug/net5.0/hellocs.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/bin/Debug/net5.0/ref/hellocs.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/bin/Debug/net5.0/hellocs.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/obj/Debug/net5.0/hellocs.csprojAssemblyReference.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/obj/Debug/net5.0/hellocs.GeneratedMSBuildEditorConfig.editorconfig
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/obj/Debug/net5.0/hellocs.AssemblyInfoInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/obj/Debug/net5.0/hellocs.AssemblyInfo.cs
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/obj/Debug/net5.0/hellocs.csproj.CoreCompileInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/obj/Debug/net5.0/hellocs.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/obj/Debug/net5.0/ref/hellocs.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/obj/Debug/net5.0/hellocs.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter01/hellocs/obj/Debug/net5.0/hellocs.genruntimeconfig.cache
