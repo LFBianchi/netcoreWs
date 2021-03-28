@@ -1,0 +1,16 @@
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/obj/Debug/net5.0/Formatting.csprojAssemblyReference.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/obj/Debug/net5.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/obj/Debug/net5.0/Formatting.AssemblyInfoInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/obj/Debug/net5.0/Formatting.AssemblyInfo.cs
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/obj/Debug/net5.0/Formatting.csproj.CoreCompileInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/bin/Debug/net5.0/Formatting
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/bin/Debug/net5.0/Formatting.deps.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/bin/Debug/net5.0/Formatting.runtimeconfig.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/bin/Debug/net5.0/Formatting.runtimeconfig.dev.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/bin/Debug/net5.0/Formatting.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/bin/Debug/net5.0/ref/Formatting.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/bin/Debug/net5.0/Formatting.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/obj/Debug/net5.0/Formatting.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/obj/Debug/net5.0/ref/Formatting.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/obj/Debug/net5.0/Formatting.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Formatting/obj/Debug/net5.0/Formatting.genruntimeconfig.cache
