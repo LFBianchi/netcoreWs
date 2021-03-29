@@ -1,0 +1,5 @@
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/exercise2/obj/Debug/net5.0/exercise2.csprojAssemblyReference.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/exercise2/obj/Debug/net5.0/exercise2.GeneratedMSBuildEditorConfig.editorconfig
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/exercise2/obj/Debug/net5.0/exercise2.AssemblyInfoInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/exercise2/obj/Debug/net5.0/exercise2.AssemblyInfo.cs
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/exercise2/obj/Debug/net5.0/exercise2.csproj.CoreCompileInputs.cache

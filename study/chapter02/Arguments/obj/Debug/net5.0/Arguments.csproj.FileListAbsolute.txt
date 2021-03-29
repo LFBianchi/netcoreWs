@@ -1,0 +1,16 @@
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/bin/Debug/net5.0/Arguments
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/bin/Debug/net5.0/Arguments.deps.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/bin/Debug/net5.0/Arguments.runtimeconfig.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/bin/Debug/net5.0/Arguments.runtimeconfig.dev.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/bin/Debug/net5.0/Arguments.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/bin/Debug/net5.0/ref/Arguments.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/bin/Debug/net5.0/Arguments.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/obj/Debug/net5.0/Arguments.csprojAssemblyReference.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/obj/Debug/net5.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/obj/Debug/net5.0/Arguments.AssemblyInfoInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/obj/Debug/net5.0/Arguments.AssemblyInfo.cs
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/obj/Debug/net5.0/Arguments.csproj.CoreCompileInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/obj/Debug/net5.0/Arguments.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/obj/Debug/net5.0/ref/Arguments.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/obj/Debug/net5.0/Arguments.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter02/Arguments/obj/Debug/net5.0/Arguments.genruntimeconfig.cache
