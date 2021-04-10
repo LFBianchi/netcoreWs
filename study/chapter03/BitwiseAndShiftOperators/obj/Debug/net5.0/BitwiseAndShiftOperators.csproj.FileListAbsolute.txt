@@ -1,0 +1,16 @@
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.deps.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.runtimeconfig.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.runtimeconfig.dev.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/ref/BitwiseAndShiftOperators.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.csprojAssemblyReference.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.AssemblyInfo.cs
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/ref/BitwiseAndShiftOperators.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.genruntimeconfig.cache
