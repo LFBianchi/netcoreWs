@@ -1,0 +1,16 @@
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/bin/Debug/net5.0/IteractionStatements
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/bin/Debug/net5.0/IteractionStatements.deps.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/bin/Debug/net5.0/IteractionStatements.runtimeconfig.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/bin/Debug/net5.0/IteractionStatements.runtimeconfig.dev.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/bin/Debug/net5.0/IteractionStatements.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/bin/Debug/net5.0/ref/IteractionStatements.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/bin/Debug/net5.0/IteractionStatements.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/obj/Debug/net5.0/IteractionStatements.csprojAssemblyReference.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/obj/Debug/net5.0/IteractionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/obj/Debug/net5.0/IteractionStatements.AssemblyInfoInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/obj/Debug/net5.0/IteractionStatements.AssemblyInfo.cs
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/obj/Debug/net5.0/IteractionStatements.csproj.CoreCompileInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/obj/Debug/net5.0/IteractionStatements.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/obj/Debug/net5.0/ref/IteractionStatements.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/obj/Debug/net5.0/IteractionStatements.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/IteractionStatements/obj/Debug/net5.0/IteractionStatements.genruntimeconfig.cache

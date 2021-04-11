@@ -1,0 +1,16 @@
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.deps.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.runtimeconfig.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.runtimeconfig.dev.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/bin/Debug/net5.0/ref/SelectionStatements.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.csprojAssemblyReference.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.AssemblyInfoInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.AssemblyInfo.cs
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.csproj.CoreCompileInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/obj/Debug/net5.0/ref/SelectionStatements.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.genruntimeconfig.cache

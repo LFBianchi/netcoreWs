@@ -1,0 +1,16 @@
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.csprojAssemblyReference.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.AssemblyInfoInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.AssemblyInfo.cs
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.csproj.CoreCompileInputs.cache
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.deps.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.runtimeconfig.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.runtimeconfig.dev.json
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/bin/Debug/net5.0/ref/CastingConverting.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/obj/Debug/net5.0/ref/CastingConverting.dll
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.pdb
+/home/lfbianchi/GitHub/netcoreWs/study/chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.genruntimeconfig.cache

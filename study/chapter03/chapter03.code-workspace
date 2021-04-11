@@ -5,6 +5,15 @@
         },
         {
             "path": "Operators"
+        },
+        {
+            "path": "SelectionStatements"
+        },
+        {
+            "path": "IteractionStatements"
+        },
+        {
+            "path": "CastingConverting"
         }
     ]
 }
